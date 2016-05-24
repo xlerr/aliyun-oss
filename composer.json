@@ -1,0 +1,13 @@
+{
+    "name": "xlerr/aliyun-oss",
+    "type": "project",
+    "license": "BSD-3-Clause",
+    "require": {
+        "aliyuncs/oss-sdk-php": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "xlerr\\oss\\": "./"
+        }
+    }
+}
